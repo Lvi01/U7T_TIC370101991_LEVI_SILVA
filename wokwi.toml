@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/final.uf2'
+elf = 'build/final.elf'
+rfc2217ServerPort = 4000
